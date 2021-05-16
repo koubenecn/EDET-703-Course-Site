@@ -72,6 +72,7 @@ a {
 
 .divider {
     background: url(703-course-banner.jpeg);
+    background-repeat: no-repeat;
     background-color: #ced7e0;
     background-position: right;
     padding: 1em;
